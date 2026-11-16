@@ -168,6 +168,7 @@ vit-from-scratch/
 ├── scripts/                    # Training, evaluation, profiling, and diagnostic entry points
 ├── docs/
 │   ├── curriculum.md           # Stage-by-stage learning path and acceptance criteria
+│   ├── units.md                # Unit-by-unit checklist: do, answer, produce, pass
 │   ├── architecture.md         # Module map, tensor shapes, and data flow
 │   ├── experiments.md          # Full results, protocol, and limitations
 │   ├── project-map.md          # File checklist and stage-to-file mapping
@@ -219,6 +220,7 @@ The Q&A documents are not answer keys for a quiz. Each question targets a mechan
 ### Documentation
 
 - [Learning path and acceptance criteria](docs/curriculum.md)
+- [Unit-by-unit learning plan](docs/units.md)
 - [Architecture and tensor shapes](docs/architecture.md)
 - [Experiments, results, and limitations](docs/experiments.md)
 - [File checklist and stage mapping](docs/project-map.md)
@@ -394,6 +396,7 @@ vit-from-scratch/
 ├── scripts/                    # 训练、评估、profiling 与诊断入口
 ├── docs/
 │   ├── curriculum.md           # 分阶段学习路径与验收标准
+│   ├── units.md                # 逐单元清单：做什么、答什么、产出什么、怎么通过
 │   ├── architecture.md         # 模块地图、张量 shape 与数据流
 │   ├── experiments.md          # 完整结果、协议与局限
 │   ├── project-map.md          # 文件清单与阶段映射
@@ -445,6 +448,7 @@ vit-from-scratch/
 ### 文档
 
 - [学习路径与验收标准](docs/curriculum.md)
+- [逐单元学习计划](docs/units.md)
 - [架构与张量 shape](docs/architecture.md)
 - [实验、结果与局限](docs/experiments.md)
 - [文件清单与阶段映射](docs/project-map.md)

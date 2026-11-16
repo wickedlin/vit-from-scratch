@@ -2,9 +2,9 @@
 
 [English](#english) · [中文](#中文)
 
-This document is the course map. It states what you should be able to **do** after each stage, which files to read, and how to verify yourself. The Q&A files go deeper into mechanisms and misconceptions.
+This document is the course map. It states what you should be able to **do** after each stage, which files to read, and how to verify yourself. The Q&A files go deeper into mechanisms and misconceptions. For a row-by-row plan of every subunit (1.1, 1.2, ...), including what to answer and what to produce, see [`units.md`](units.md).
 
-本文是课程地图：说明每个阶段结束后你应当**能做什么**、该读哪些文件、如何自检。更深入的机制与常见误解见对应的 Q&A 文件。
+本文是课程地图：说明每个阶段结束后你应当**能做什么**、该读哪些文件、如何自检。更深入的机制与常见误解见对应的 Q&A 文件。逐单元（1.1、1.2……）的任务、要回答的题号与产出，见 [`units.md`](units.md)。
 
 ---
 

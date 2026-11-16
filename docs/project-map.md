@@ -94,6 +94,7 @@ Scripts that import `vit_from_scratch` include a `sys.path` bootstrap, so they r
 | File | Contents |
 |---|---|
 | `curriculum.md` | Stage goals, topics, hands-on tasks, acceptance criteria, suggested pace |
+| `units.md` | Unit-by-unit plan (S0-0.1 … S6-6.4): what to do, which Q&A to answer, what to produce, how to pass |
 | `architecture.md` | Module dependency graph, tensor shapes, parameter accounting, data flow, training loop, failure lookup table |
 | `experiments.md` | Protocol, all result tables, figures, statistical comparisons, threats to validity |
 | `project-map.md` | This file |
@@ -277,6 +278,7 @@ The original private course workspace was not modified; `git status` there remai
 | 文件 | 内容 |
 |---|---|
 | `curriculum.md` | 阶段目标、知识点、动手任务、验收标准、建议节奏 |
+| `units.md` | 逐单元计划（S0-0.1 … S6-6.4）：做什么、回答哪些问答、产出什么、怎么通过 |
 | `architecture.md` | 模块依赖图、张量 shape、参数账、数据流、训练循环、故障排查表 |
 | `experiments.md` | 协议、全部结果表、图、统计比较、效度威胁 |
 | `project-map.md` | 本文件 |
