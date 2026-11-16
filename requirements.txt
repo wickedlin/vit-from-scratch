@@ -1,0 +1,22 @@
+# PyTorch and torchvision are installed per platform, not from this file.
+#
+# Windows + NVIDIA CUDA (adjust cuXXX to your driver):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu129
+# macOS (Apple Silicon, MPS):
+#   pip install torch torchvision
+# CPU only:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#
+# Then install the remaining course dependencies:
+#   pip install -r requirements.txt
+#   pip install -e .
+
+numpy>=2.0
+matplotlib>=3.7
+scipy>=1.11
+scikit-learn>=1.3
+pillow>=10
+einops>=0.8
+# Pinned because tests/test_vit_reference.py checks this exact module layout.
+vit-pytorch==1.26.12
+thop>=0.1.1

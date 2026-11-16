@@ -1,0 +1,41 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+.eggs/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# ---------- Datasets (downloaded automatically; never commit) ----------
+data/
+*.tar.gz
+*.tgz
+
+# ---------- Model weights and run artifacts ----------
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+experiments/
+runs/
+wandb/
+reports/
+temp/
+.tmp_train_check/
+*.log
+
+# ---------- Editor / OS / tool caches ----------
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.claude/
