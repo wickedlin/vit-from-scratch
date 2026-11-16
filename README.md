@@ -8,6 +8,11 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-ee4c2c)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+> [!TIP]
+> **Start here / 从这里开始:** [`docs/units.md`](docs/units.md) is the unit-by-unit learning plan (S0-0.1 → S6-6.4): what to do, which Q&A to answer, and what to produce at each step. For the big picture first, read [`docs/curriculum.md`](docs/curriculum.md).
+>
+> **从这里开始：** 先读 [`docs/units.md`](docs/units.md) —— 从 S0-0.1 到 S6-6.4 的逐单元计划，写明每一步做什么、回答哪些问答、产出什么；想先看整体路径，再读 [`docs/curriculum.md`](docs/curriculum.md)。
+
 ---
 
 ## English
